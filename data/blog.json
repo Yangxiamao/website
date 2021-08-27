@@ -39,6 +39,14 @@
       "tags": [],
       "date": "2021-07-14",
       "path": "/zh/blog/the-road-to-customization-of-Sina-Weibo-API-gateway-based-on-Apache-APISIX"
+    }, 
+    {
+      "title": "中国首位 K8s ingress-nginx reviewer 同时提名成为 Apache APISIX committer",
+      "image": "https://static.apiseven.com/202108/apisix.png",
+      "type": "article",
+      "tags": [],
+      "date": "2021-07-08",
+      "path": "/zh/blog/China's first K8s ingress-nginx reviewer was also nominated as Apache APISIX committer"
     },
     {
       "title": "有了 NGINX 和 Kong，为什么还需要 Apache APISIX",
