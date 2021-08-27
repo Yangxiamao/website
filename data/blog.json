@@ -203,6 +203,14 @@
       "path": "/en/blog/contributors-the-golden-metric-of-openSource-projects"
     },
     {
+      "title": "celebrate-200-contributors",
+      "image": "https://apache.org/logos/res/apisix/apisix.png",
+      "type": "article",
+      "tags": [],
+      "date": "2021-07-06",
+      "path": "/en/blog/celebrate-200-contributors"
+    },
+    {
       "title": "Traffic Split in Apache APISIX Ingress Controller",
       "image": "https://api7-website-1301662268.file.myqcloud.com/ingress_controller_cover.png",
       "type": "article",
