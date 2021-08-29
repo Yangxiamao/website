@@ -33,6 +33,14 @@
       "path": "/zh/blog/contributors-the-golden-metric-of-openSource-projects"
     },
     {
+      "title": "深度剖析 Apache APISIX Mesh Agent",
+      "image": "https://static.apiseven.com/202108/apisix.png",
+      "type": "article",
+      "tags": [],
+      "date": "2021-07-16",
+      "path": "/zh/blog/Analyze-Apache-APISIX-Mesh-Agent-deeply"
+    },
+    {
       "title": "基于 Apache APISIX，新浪微博 API 网关的定制化开发之路",
       "image": "https://static.apiseven.com/202108/weibo.png",
       "type": "article",
